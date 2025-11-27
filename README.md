@@ -27,14 +27,6 @@ Achieved ~97% validation accuracy
 
 VGG16 clearly outperformed the scratch CNN, so it was saved as the final classifier.
 
-- Repository Structure
-CVI620-Assignment2-CatsDogs/
-│
-├── CatsDogs_Assignment2.ipynb      # Full training + testing notebook
-├── model/
-│     └── cats_dogs_best.keras      # Final saved model (VGG16)
-└── test_images/                    # Internet images used for inference (optional)
-
 - How to Run Training (Optional)
 
 If running locally or in Colab:
